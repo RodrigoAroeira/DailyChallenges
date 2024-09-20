@@ -1,3 +1,6 @@
 [submodule "MovingParticle"]
 	path = MovingParticle
 	url = https://github.com/RodrigoAroeira/MovingParticle
+[submodule "ConwaysGameOfLife"]
+	path = ConwaysGameOfLife
+	url = https://github.com/RodrigoAroeira/ConwaysGameOfLife
