@@ -1,9 +1,12 @@
 [submodule "MovingParticle"]
 	path = MovingParticle
 	url = https://github.com/RodrigoAroeira/MovingParticle
+	branch = main
 [submodule "ConwaysGameOfLife"]
 	path = ConwaysGameOfLife
 	url = https://github.com/RodrigoAroeira/ConwaysGameOfLife
+	branch = main
 [submodule "videoToASCII"]
 	path = videoToASCII
-	url = ./videoToASCII/
+	url = https://www.github.com/RodrigoAroeira/videoToASCII
+	branch = main
