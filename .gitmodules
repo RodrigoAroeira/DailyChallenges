@@ -4,3 +4,6 @@
 [submodule "ConwaysGameOfLife"]
 	path = ConwaysGameOfLife
 	url = https://github.com/RodrigoAroeira/ConwaysGameOfLife
+[submodule "videoToASCII"]
+	path = videoToASCII
+	url = ./videoToASCII/
