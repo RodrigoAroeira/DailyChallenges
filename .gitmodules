@@ -10,3 +10,7 @@
 	path = videoToASCII
 	url = https://www.github.com/RodrigoAroeira/videoToASCII
 	branch = main
+[submodule "JuliaSet"]
+  path = JuliaSet
+  url = https://www.github.com/RodrigoAroeira/JuliaSet
+  branch = main
