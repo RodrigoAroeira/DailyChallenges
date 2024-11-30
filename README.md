@@ -16,6 +16,8 @@ Explore the most recent commits for each challenge:
 
 - [x] [3 - Video To ASCII terminal player](https://github.com/RodrigoAroeira/videoToASCII/tree/main)
 
+- [x] [4 - Julia Set visualizer](https://github.com/RodrigoAroeira/JuliaSet/tree/main)
+
 ## Possible future challenges
 
 - 2D Solar System simulator
@@ -31,7 +33,7 @@ Explore the most recent commits for each challenge:
 To clone this repository and the submodules, run:
 
 ```sh
-git clone --recurse-submodules https:://github.com/RodrigoAroeira/DailyChallenges.git
+git clone --recurse-submodules https://github.com/RodrigoAroeira/DailyChallenges.git
 cd DailyChallenges
 ```
 
