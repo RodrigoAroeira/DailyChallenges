@@ -21,7 +21,6 @@ Explore the most recent commits for each challenge:
 ## Possible future challenges
 
 - 2D Solar System simulator
-- Julia Set visualizer
 - Mandelbulb visualizer (3D)
 - Simple Raytracer
 - Tetris Clone
