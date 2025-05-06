@@ -14,3 +14,7 @@
   path = JuliaSet
   url = https://www.github.com/RodrigoAroeira/JuliaSet
   branch = main
+[submodule "ConwaysTerminalOfLife"]
+  path = ConwaysTerminalOfLife
+  url = https://www.github.com/RodrigoAroeira/JuliaSet
+  branch = main
