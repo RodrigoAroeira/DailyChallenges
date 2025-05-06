@@ -16,5 +16,5 @@
   branch = main
 [submodule "ConwaysTerminalOfLife"]
   path = ConwaysTerminalOfLife
-  url = https://www.github.com/RodrigoAroeira/JuliaSet
+  url = https://github.com/RodrigoAroeira/ConwaysTerminalOfLife
   branch = main
