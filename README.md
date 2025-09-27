@@ -18,6 +18,8 @@ Explore the most recent commits for each challenge:
 
 - [x] [4 - Julia Set visualizer](https://github.com/RodrigoAroeira/JuliaSet/tree/main)
 
+- [X] [5 - Conways's Terminal of Life](https://github.com/RodrigoAroeira/ConwaysTerminalOfLife/tree/master)
+
 ## Possible future challenges
 
 - 2D Solar System simulator
